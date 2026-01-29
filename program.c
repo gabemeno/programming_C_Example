@@ -6,7 +6,6 @@ int main() {
     int second_number;
 
     printf("Hello, World!\n");
-    return 0;
 
     printf("Please add a number.\n");
     scanf("%d", &first_number);
