@@ -9,11 +9,11 @@ int main() {
     return 0;
 
     printf("Please add a number.\n");
-    scanf("%d", &number);
+    scanf("%d", &first_number);
     printf("You added: %d\n", first_number);
 
     printf("Please add another number.\n");
-    scanf("%d", &number);
+    scanf("%d", &second_number);
     printf("You added: %d\n", second_number);
 
     int multiplication = first_number * second_number;
