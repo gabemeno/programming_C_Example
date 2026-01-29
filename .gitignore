@@ -18,6 +18,7 @@
 *.dll
 *.so
 *.dylib
+program
 
 # Build directories
 build/
