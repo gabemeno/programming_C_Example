@@ -1,0 +1,9 @@
+# Compiled binaries
+program
+*.o
+
+# Debug symbols
+*.dSYM/
+
+# macOS system files
+.DS_Store
